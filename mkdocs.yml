@@ -1,0 +1,12 @@
+site_name: Picovico
+site_description: Static content pages
+repo_url: https://github.com/picovico/picovico.github.io
+pages:
+  - ['index.md', 'Home']
+  - ['faq.md', 'FAQ']
+  - ['privacy.md', 'Privacy Policy']
+  - ['terms.md', 'Terms & Conditions']
+  - ['mohars.md', 'Mohars']
+docs_dir: 'content'
+site_dir: 'build'
+theme: readthedocs
